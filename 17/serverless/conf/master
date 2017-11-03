@@ -1,0 +1,17 @@
+# SaltConf17 demo configuration
+engines:
+  - simple_http
+  - config_builder
+engines_dirs:
+  - /srv/engines
+
+file_roots:
+  base:
+    - /srv/salt
+
+runner_dirs:
+  - /srv/runners
+
+pillar_roots:
+  base:
+    - /srv/pillar

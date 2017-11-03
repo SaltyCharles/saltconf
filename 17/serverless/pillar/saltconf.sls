@@ -1,0 +1,1 @@
+{handler: giphyget.py, lang: python}

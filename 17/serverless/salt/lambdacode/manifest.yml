@@ -1,0 +1,5 @@
+giphyget:
+        lang: python
+        handler: giphyget.py
+        # FUTURE
+        # image: myimage/faas-giphyimage
